@@ -1,4 +1,4 @@
-# flutter_netflix_clone
+# Liveasy_test_otp_verification.
 
 A new Flutter project.
 
