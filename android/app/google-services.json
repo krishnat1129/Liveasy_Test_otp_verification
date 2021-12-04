@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798014093295",
+    "project_id": "liveasytest-ae34e",
+    "storage_bucket": "liveasytest-ae34e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798014093295:android:47ba7e7cb93ac2b9dfa81a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_netflix_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798014093295-grrepjlgqldep29a3g7lcjugla4b0hga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_netflix_clone",
+            "certificate_hash": "63fb0faacbd297fffd300dda6be95c8cfca2310a"
+          }
+        },
+        {
+          "client_id": "798014093295-jd6572o090f2n8ajbfij5c4nn61vd9hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuV4SBriU0UQxLXVkYV4yXqG1fV7SStRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798014093295-jd6572o090f2n8ajbfij5c4nn61vd9hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
